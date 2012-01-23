@@ -1,3 +1,6 @@
+updated ipsn news
+
+
 mkdir nginx
 cd nginx
 git clone https://github.com/git-mirror/nginx.git
